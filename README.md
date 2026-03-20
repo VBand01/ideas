@@ -4,7 +4,10 @@ An open, bottom up repository of ideas to help build the future of Iran across t
 
 Anyone can contribute.
 
+See all discussions here:  (https://github.com/IranAzadAbad/ideas)
+
 ---
+
 
 ## How to Submit an Idea
 
